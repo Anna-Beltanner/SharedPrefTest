@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPrefTest</string>
+    <string name="this_text_will_charge">This text will charge</string>
+    <string name="save">SAVE</string>
+    <string name="type_something_here">Type something here</string>
+    <string name="sw_switch">switch</string>
+</resources>
